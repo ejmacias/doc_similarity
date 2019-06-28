@@ -1,0 +1,8 @@
+Se requiere la instalación previa de las siguientes herramientas:
+
+1. Brat Rapid Annotation Tool: https://brat.nlplab.org
+2. Bratreader: https://github.com/clips/bratreader
+3. Elasticsearch: https://www.elastic.co/downloads/elasticsearch
+4. Kibana: https://www.elastic.co/downloads/kibana
+5. Apache Kafka: https://kafka.apache.org/downloads
+5. Apache Spark: https://spark.apache.org/downloads.html
