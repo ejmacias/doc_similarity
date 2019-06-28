@@ -63,16 +63,11 @@ def read_args():
 def load_model():
     # Especificar parámetros para cargar el modelo actualizado:
 
-    # Directorio raiz del proyecto.
-    tfm_dir = str(Path(os.getcwd()))
+    # Cargar modelo pre-entrenado o uno actualizado en local.
+    model_name = 'es_core_news_sm'
 
-    model_size = 'medium' # small | medium | large
-    epoch = 4 # 1 | 5 | 10
-    dropout = 0.5 # 0.25 | 0.5 | 0.75
-    revision_rate = 0.7 # 0.25 | 0.5 | 0.75
-
-    # Cargar modelo actualizado.
-    model = spacy.load(tfm_dir + '/models/model_' + model_size + '_e' + str(epoch) + '_d' + str(dropout) + '_r' + str(revision_rate))
+    # Cargar modelo.
+    model = spacy.load(model_name)
 
     return model
 
