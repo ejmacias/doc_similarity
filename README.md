@@ -6,7 +6,10 @@ Este Trabajo Fin de Master (TFM) es parte del Máster en Big Data y Data Science
 El objetivo del TFM es la extracción de información relevante de un conjunto de noticias que permite una adecuada visualización de las mismas.
 
 Estructura de archivos:
-- /scripts: 
+- /scripts
+  * json2txt.sh: Extract the text from a JSON article and convert it into txt format.
+  * launch_ner.sh: Launch all the required processes for the system.
+  * random_news.sh: Pick a subset of random news articles from a directory.
 - /src
   * \prototype1: primera fase - evaluación de los modelos de lenguaje de Spacy.
   * \prototype2: segunda fase - entrenamiento de los modelos para mejora de precisión.
