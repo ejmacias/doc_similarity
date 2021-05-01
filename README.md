@@ -3,7 +3,10 @@ Título: Descubriendo similitud entre documentos a partir de compartición de en
 
 Este Trabajo Fin de Master (TFM) es parte del Máster en Big Data y Data Science de la Universidad Autónoma de Madrid.
 
-El objetivo del TFM es la extracción de información relevante de un conjunto de noticias que permite una adecuada visualización de las mismas.
+El objetivo del TFM es la extracción de información relevante de un conjunto de noticias que permita una adecuada visualización y categorización de las mismas.
+
+<img width="1161" alt="Screenshot 2021-05-01 at 23 58 37" src="https://user-images.githubusercontent.com/40733745/116795986-288ebb80-aad9-11eb-82bd-948079b6bd95.png">
+
 
 Estructura de archivos:
 - /scripts
