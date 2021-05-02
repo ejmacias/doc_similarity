@@ -1,4 +1,6 @@
-# tfm
+English article in Medium [here](https://ejmacias.medium.com/clustering-news-articles-based-on-named-entities-306a23d368e1).
+
+
 Título: Descubriendo similitud entre documentos a partir de compartición de entidades nombradas.
 
 Este Trabajo Fin de Master (TFM) es parte del Máster en Big Data y Data Science de la Universidad Autónoma de Madrid.
